@@ -9,7 +9,8 @@
     "default_title" : "Warning: CoronaVirus news is on this page!"
   },
   "permissions": [
-    "storage"
+    "storage",
+    "activeTab"
 	],
   "content_scripts": [
     { 
@@ -18,7 +19,8 @@
         "https://*/*"
       ],
       "exclude_globs": [
-        "*://*github.com*"
+        "*://*github.com*",
+        "*://cdc.gov*"
       ],
       "js": ["js/jquery-3.1.1.min.js", "js/filter.js"],
       "run_at": "document_idle",
