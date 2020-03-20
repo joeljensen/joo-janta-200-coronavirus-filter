@@ -1,5 +1,8 @@
 Joo Janta 200 CoronaVirus Filter
 ================================
+
+![alt text](https://github.com/joeljensen/joo-janta-200-coronavirus-filter/blob/master/in-action.gif "Joo Janta in Action!!")
+
 A Chrome extension that removes the CoronaVirus from the Internet. Name inspired by https://hitchhikers.fandom.com/wiki/Joo_Janta_200_Super-Chromatic_Peril_Sensitive_Sunglasses
 
 
