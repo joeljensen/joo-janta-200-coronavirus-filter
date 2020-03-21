@@ -9,8 +9,7 @@
     "default_title" : "Warning: CoronaVirus news is on this page!"
   },
   "permissions": [
-    "storage",
-    "activeTab"
+    "storage"
 	],
   "content_scripts": [
     { 
