@@ -8,7 +8,7 @@ A Chrome extension that removes the CoronaVirus from the Internet. Name inspired
 
 Overview
 --------------------------
-My metaphorical cup of mental health can only handle so much crazy per day, before it overflows. This extension will filter out the mentions of coronavirus until I am better able to deal.
+My metaphorical cup of mental health can only handle so much crazy per day, before it overflows. This extension will filter out the mentions of coronavirus until you are better able to deal.
 
 
 Features
